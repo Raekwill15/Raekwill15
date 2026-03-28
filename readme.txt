@@ -1,8 +1,0 @@
-## Hey 👋, This is Raekwon
-[![Gmail Badge](https://img.shields.io/badge/-Raekwill15@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Raekwill15@gmail.com)](mailto:Raekwill15@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-raekwonw-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raekwonw/)](https://www.linkedin.com/in/raekwonw/) [![Github Badge](https://img.shields.io/badge/-Raekwill15-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Raekwill15/)](https://www.github.com/Raekwill15/) <p align='left'>I'm a B.S Computer Science Graduate with a focus on all things data analytics. I have experience with and projects using Python, Excel, and SQL. You can view some of my repositories here.</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Raekwill15 alt=Raekwill15 /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Raekwill15&show_icons=true&include_all_commits=true)](https://github.com/Raekwill15/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raekwill15&layout=compact)](https://github.com/Raekwill15/github-readme-stats)
